@@ -34,6 +34,17 @@ MYSQL Server .
 
  ![changing inbound rules](https://github.com/NANA-2016/PROJECT-5/assets/141503408/bb87ebbd-f0e7-47b3-bc52-02505b66ba85)
 
+ ## Mysql server confuguration.
+
+  We need to configure Mysql server  to allow connectons from to client to the remote host.
+
+   The followng command 'sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf 'and configuratin results are as shown below 
+   
+   [mysql server server](https://github.com/NANA-2016/PROJECT-5/assets/141503408/a0775ceb-03a3-4c08-9f97-e7617df0c561)
+
+
+   
+
 
  
 
