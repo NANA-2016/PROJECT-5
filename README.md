@@ -28,6 +28,15 @@ MYSQL Server .
 
 ![mysql server server](https://github.com/NANA-2016/PROJECT-5/assets/141503408/be70e946-a52c-41aa-a951-94e3630031d8)
 
+ To allow communication of both server , we have to set a default TCP  port 3306 by creating a new entry on inbound rules
+ 
+ using private ip address of the server . This is also for security purposes.
+
+ ![changing inbound rules](https://github.com/NANA-2016/PROJECT-5/assets/141503408/bb87ebbd-f0e7-47b3-bc52-02505b66ba85)
+
+
+ 
+
 
 
 
