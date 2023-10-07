@@ -42,6 +42,30 @@ MYSQL Server .
    
    ![mysql server server](https://github.com/NANA-2016/PROJECT-5/assets/141503408/a0775ceb-03a3-4c08-9f97-e7617df0c561)
 
+    To allow mysql client to connect to the server remotely, We have to give the user permissions using mysql commands as 
+    
+    shown on the screen shot below on the server .
+    
+![user permissions](https://github.com/NANA-2016/PROJECT-5/assets/141503408/771fe19e-6fdb-45dd-a87e-3c6cd664ce50)
+
+ Lastly we need to test if  the client server can connect sucessfully  to the remote MYSQL server and can perform SQL 
+ 
+ queries. 
+
+  using the trigger commands as shown below on the  screen shots  consecutively.
+ 
+![successful connection to Mysql server  by client prompt](https://github.com/NANA-2016/PROJECT-5/assets/141503408/e226ae71-3b38-47d3-86a2-36b3c4c6e0b8)
+
+![successful connection to Mysql server  by client prompt (2)](https://github.com/NANA-2016/PROJECT-5/assets/141503408/3f3a9e23-42d4-412a-b8c8-cb87baa8ab5c)
+
+
+
+ 
+
+    
+
+    
+
 
    
 
