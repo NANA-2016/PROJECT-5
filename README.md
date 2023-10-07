@@ -18,3 +18,16 @@ See the screenshot below to see the 2 servers on AWS.
 
 ![Servers created ](https://github.com/NANA-2016/PROJECT-5/assets/141503408/61d63c09-eb07-4484-a5f4-2d61aeb0d504)
 
+## Creating MYSQL Servers Software.
+
+ MYSQL Client
+
+![mysql client server](https://github.com/NANA-2016/PROJECT-5/assets/141503408/3196e1b9-0f04-4575-b300-72fe503cc211)
+
+MYSQL Server .
+
+![mysql server server](https://github.com/NANA-2016/PROJECT-5/assets/141503408/be70e946-a52c-41aa-a951-94e3630031d8)
+
+
+
+
