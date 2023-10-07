@@ -40,7 +40,7 @@ MYSQL Server .
 
    The followng command 'sudo vi /etc/mysql/mysql.conf.d/mysqld.cnf 'and configuratin results are as shown below 
    
-   [mysql server server](https://github.com/NANA-2016/PROJECT-5/assets/141503408/a0775ceb-03a3-4c08-9f97-e7617df0c561)
+   ![mysql server server](https://github.com/NANA-2016/PROJECT-5/assets/141503408/a0775ceb-03a3-4c08-9f97-e7617df0c561)
 
 
    
